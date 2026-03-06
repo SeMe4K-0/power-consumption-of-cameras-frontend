@@ -13,3 +13,8 @@
 * [Адаптивный дизайн и развертывание](/tutorials/pwa/PWA.md) (GitHub Pages, PWA, HTTPS)
 * [Методические указания Redux Toolkit + fetch](/tutorials/redux/redux_toolkit.md)
 * [Методические указания Tauri](/tutorials/tauri/). Видео мастер-классов [Tauri на основе проекта React](https://vk.com/video-211704031_456239168) и [Tauri приложения с нуля](https://vk.com/video-211704031_456239167)
+
+#### Подготовленные материалы к защите
+
+- Ответы на контрольные вопросы: `docs/control-questions.md`
+- Deployment-диаграмма: `docs/deployment-diagram.md`
